@@ -1,1 +1,0 @@
-# python detect.py --weights 'runs/train/exp153/weights/best.pt' --source '../datasets/stripe_dataset/to_detects/to_detect' --save-txt --save-conf --conf-thres 0.40 --save-format 1
