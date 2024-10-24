@@ -1,0 +1,6 @@
+stripe 468 1 534 752
+stripe 362 1 431 753
+stripe 47 1 118 753
+stripe 153 2 216 753
+stripe 264 1 327 753
+stripe 1 1 18 753

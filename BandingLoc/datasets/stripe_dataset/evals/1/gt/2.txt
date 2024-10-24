@@ -1,0 +1,6 @@
+stripe 24 1 49 589
+stripe 116 1 142 589
+stripe 210 1 235 589
+stripe 304 2 332 589
+stripe 396 1 423 589
+stripe 491 1 500 589
